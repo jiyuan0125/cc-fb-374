@@ -1,0 +1,8 @@
+2026-09-12T11:18:26+00:00 ERROR svc-quote market snapshot stored req=0e06deee
+2026-09-12T11:48:58+00:00 INFO svc-quote market snapshot stored req=5c830815
+2026-09-12T12:13:21+00:00 WARN svc-quote batch priced req=b98eb11a
+2026-09-12T12:18:00+00:00 INFO svc-quote quote calculated req=a9401a12
+2026-09-12T12:44:23+00:00 INFO svc-quote stale quote dropped req=7da3a543
+2026-09-12T14:13:15+00:00 INFO svc-quote market snapshot stored req=9dfb3b2e
+2026-09-12T14:45:16+00:00 INFO svc-quote stale quote dropped req=f0a5dda5
+2026-09-12T14:45:41+00:00 INFO svc-quote stale quote dropped req=c0d91bdd

@@ -1,0 +1,16 @@
+2026-09-10T23:09:16+08:00 WARN svc-sync snapshot shipped req=b8a4a696
+2026-09-10T23:15:36+08:00 INFO svc-sync snapshot shipped req=d8bea070
+2026-09-10T23:22:12+08:00 INFO svc-sync conflict resolved req=f1d781db
+2026-09-10T23:28:16+08:00 INFO svc-sync snapshot shipped req=dcf7f1b4
+2026-09-10T23:42:19+08:00 INFO svc-sync snapshot shipped req=52f2fd33
+2026-09-10T23:43:20+08:00 INFO svc-sync snapshot shipped req=d98cdf1f
+2026-09-10T23:50:26+08:00 INFO svc-sync snapshot shipped req=75b03c67
+2026-09-10T23:54:03+08:00 INFO svc-sync conflict resolved req=ad4413af
+2026-09-11T00:05:40+08:00 INFO svc-sync snapshot shipped req=44d7dc55
+2026-09-11T0 INFO svc-sync snapshot shipped req=926637d4
+2026-09-11T00:06:57+08:00 INFO svc-sync backfill finished req=849f87b8
+2026-09-11T00:12:13+08:00 INFO svc-sync replica lag normal req=f412f8c8
+2026-09-11T00:30:06+08:00 INFO svc-sync replica lag normal req=3f59e5c6
+2026-09-11T00:34:57+08:00 WARN svc-sync snapshot shipped req=ca0cf48d
+2026-09-11T00:40:22+08:00 INFO svc-sync replica lag normal req=709fd863
+2026-09-11T00:40:33+08:00 INFO svc-sync backfill finished req=1f24da5b

@@ -1,0 +1,4 @@
+2026-09-07T19:51:30+08:00 INFO svc-sync replica lag normal req=e069a0f7
+2026-09-07T21:36:47+08:00 INFO svc-sync snapshot shipped req=f3d30c52
+2026-09-07T22:35:06+08:00 ERROR svc-sync replica lag normal req=198ebe22
+2026-09-07T22:42:08+08:00 INFO svc-sync snapshot shipped req=3db89697

@@ -1,0 +1,6 @@
+2026-09-08T21:17:29 WARN svc-search slow query logged req=0bcc1791
+2026-09-08T21:21:32 INFO svc-search rebuild scheduled req=ac138617
+2026-09-08T21:37:32 WARN svc-search slow query logged req=a6dcf808
+2026-09-08T21:40:59 WARN svc-search rebuild scheduled req=7a5e8dec
+2026-09-08T21:53:11 INFO svc-search query served from index req=85769e15
+2026-09-08T22:09:58 INFO svc-search slow query logged req=3e8d5ebf

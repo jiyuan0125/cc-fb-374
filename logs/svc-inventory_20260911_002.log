@@ -1,0 +1,9 @@
+2026-09-11T09:02:07+00:00 INFO svc-inventory stock released req=94d32e2e
+2026-09-11T09:26:55+00:00 WARN svc-inventory sku count adjusted req=4263af90
+2026-09-11T09:27:26+00:00 INFO svc-inventory stock released req=0b66650d
+2026-09-11T10:06:34+00:00 INFO svc-inventory stock released req=dadd3fcb
+2026-09-11T10:09:00+00:00 WARN svc-inventory sku count adjusted req=df0f0581
+2026-09-11T11:34:47+00:00 WARN svc-inventory stock released req=0f40f6f0
+2026-09-11T13:13:30+00:00 WARN svc-inventory stock released req=66c66c19
+2026-09-11T13:21:24+00:00 INFO svc-inventory stock released req=04d4fd32
+2026-09-11T13:36:30+00:00 INFO svc-inventory sku count adjusted req=218cad56

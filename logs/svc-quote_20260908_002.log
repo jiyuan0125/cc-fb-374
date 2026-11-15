@@ -1,0 +1,8 @@
+2026-09-08T12:51:59+00:00 INFO svc-quote market snapshot stored req=03385907
+2026-09-08T12:55:19+00:00 INFO svc-quote batch priced req=2bb60763
+2026-09-08T13:16:59+00:00 INFO svc-quote market snapshot stored req=7179b215
+2026-09-08T13:21:59+00:00 WARN svc-quote quote calculated req=9ed937f0
+2026-09- INFO svc-quote quote calculated req=78223be5
+2026-09-08T13:35:14+00:00 INFO svc-quote stale quote dropped req=f985894a
+2026-09-08T13:59:40+00:00 WARN svc-quote market snapshot stored req=3ed23d71
+2026-09-08T14:01:13+00:00 INFO svc-quote stale quote dropped req=02ed43e6

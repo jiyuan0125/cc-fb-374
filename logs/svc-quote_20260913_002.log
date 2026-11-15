@@ -1,0 +1,5 @@
+2026-09-13T12:34:43+00:00 INFO svc-quote quote calculated req=1dd9ecce
+2026-09-13T13:31:09+00:00 INFO svc-quote quote calculated req=346eeb6b
+2026-09-13T13:48:38+00:00 WARN svc-quote stale quote dropped req=6e37bfbf
+2026-09-13T14:15:15+00:00 ERROR svc-quote stale quote dropped req=ca5c312f
+2026-09-13T14:15:55+00:00 WARN svc-quote batch priced req=c4e60af7

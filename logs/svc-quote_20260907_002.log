@@ -1,0 +1,6 @@
+2026-09-07T12:45:07+00:00 INFO svc-quote quote calculated req=7fd33bd4
+2026-09-07T13:00:31+00:00 INFO svc-quote batch priced req=1ab20255
+2026-09-07T13:20:23+00:00 INFO svc-quote batch priced req=581f4d27
+2026-09-07T13:32:33+00:00 WARN svc-quote batch priced req=6928faff
+2026-09-07T14:17:02+00:00 INFO svc-quote market snapshot stored req=7e26e1bd
+2026-09-07T14:17:17+00:00 INFO svc-quote quote calculated req=5e2df8a1

@@ -1,0 +1,3 @@
+2026-09-09T22:20:40+08:00 ERROR svc-auth permission checked req=553843ec
+2026-09-09T22:30:28+08:00 INFO svc-auth login succeeded req=b54d81b5
+2026-09-09T22:49:54+08:00 INFO svc-auth permission checked req=6ef14555

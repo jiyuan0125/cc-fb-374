@@ -1,0 +1,4 @@
+2026-09-13T21:39:43 INFO svc-search slow query logged req=14c6f242
+2026-09-13T22:17:06 INFO svc-search query served from index req=416bc423
+2026-09-13T22:42:43 ERROR svc-search index segment flushed req=6be75137
+2026-09-13T22:44:10 WARN svc-search slow query logged req=ff9220dd

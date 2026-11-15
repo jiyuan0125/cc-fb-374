@@ -1,0 +1,15 @@
+2026-09-13T08:55:03+08:00 INFO svc-auth login succeeded req=b7eef25c
+2026-09-13T09:34:45+08:00 INFO svc-auth permission checked req=32c3ada1
+2026-09-13T09:51:17+08:00 INFO svc-auth permission checked req=991a666f
+2026-09-13T10:30:34+08:00 WARN svc-auth login succeeded req=0178f8a1
+2026-09-13T11:48:13+08:00 INFO svc-auth token refreshed req=3b732c6b
+2026-09-13T13:10:50+08:00 WARN svc-auth token issued req=39bb21db
+2026-09-13T14:30:07+08:00 INFO svc-auth token issued req=8bb9572a
+2026-09-13T15:07:07+08:00 INFO svc-auth permission checked req=62413fd5
+2026-09-13T15:16:43+08:00 INFO svc-auth token issued req=748f45a5
+2026-09-13T17:02:10+08:00 INFO svc-auth login succeeded req=b6d1271b
+2026-09-13T17:34:25+08:00 INFO svc-auth permission checked req=6c45d9f2
+2026-09-13T19:12:25+08:00 INFO svc-auth token issued req=e4a8d8a3
+2026-09-13T19:14:02+08:00 WARN svc-auth token issued req=9f3e6e93
+2026-09-13T20:29:43+08:00 INFO svc-auth token refreshed req=00dc6ee6
+2026-09-13T20:35:54+08:00 INFO svc-auth login succeeded req=1089f26d

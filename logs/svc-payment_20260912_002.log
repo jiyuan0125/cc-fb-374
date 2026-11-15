@@ -1,0 +1,5 @@
+2026-09-12T19:43:57 WARN svc-payment refund issued req=8726465b
+2026-09-12T19:46:23 INFO svc-payment channel retry succeeded req=8232b553
+2026-09-12T20:29:40 INFO svc-payment payment settled req=a5faa04d
+2026-09-12T21:49:44 INFO svc-payment refund issued req=aac7f5f4
+2026-09-12T21:54:16 INFO svc-payment channel retry succeeded req=cfd67247

@@ -1,0 +1,4 @@
+2026-09-10T21:12:37+08:00 ERROR svc-gateway tls handshake done req=c2d1d3b1
+2026-09-10T21:49:51+08:00 INFO svc-gateway tls handshake done req=143be576
+2026-09-10T22:15:22+08:00 INFO svc-gateway request routed to upstream req=805d8a3c
+2026-09-10T22:31:11+08:00 INFO svc-gateway rate limit applied req=74344b7c

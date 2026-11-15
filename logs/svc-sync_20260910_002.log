@@ -1,0 +1,10 @@
+2026-09-10T18:33:27+08:00 INFO svc-sync snapshot shipped req=33fd9ee5
+2026-09-10T19:20:09+08:00 INFO svc-sync replica lag normal req=c806cf88
+2026-09-10T19:34:49+08:00 INFO svc-sync backfill finished req=0b4f59ac
+2026-09-10T19:39:10+08:00 INFO svc-sync snapshot shipped req=9d4f203b
+2026-09-10T20:02:26+08:00 INFO svc-sync replica lag normal req=d1dece44
+2026-09-10T21:20:14+08:00 INFO svc-sync conflict resolved req=57c5e284
+2026-09-10T21:30:54+08:00 INFO svc-sync backfill finished req=0bccd0c8
+2026-09-10T21:49:36+08:00 INFO svc-sync snapshot shipped req=9634b7e9
+2026-09-10T21:49:55+08:00 INFO svc-sync backfill finished req=2a450749
+2026-09-10T22:18:31+08:00 WARN svc-sync replica lag normal req=f5a1d878

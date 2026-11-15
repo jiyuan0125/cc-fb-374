@@ -1,0 +1,5 @@
+2026-09-11T21:04:59 INFO svc-search rebuild scheduled req=3471fcaf
+2026-09-11T21:40:18 INFO svc-search query served from index req=40d852f6
+2026-09-11T21:51:54 INFO svc-search slow query logged req=099ab2e8
+2026-09-11T22:21:14 WARN svc-search index segment flushed req=e87759b1
+2026-09-11T22:38:14 WARN svc-search index segment flushed req=1c2638c5
